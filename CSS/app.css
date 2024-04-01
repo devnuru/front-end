@@ -4,6 +4,22 @@ body {
   background-position: right top;
   background-attachment: fixed;
 }
+
+/* body {
+  background: #ffffff url("img_tree.png") no-repeat right top;
+} */
 p.border {
   border-style: dotted;
+}
+
+p {
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
 }
